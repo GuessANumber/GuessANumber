@@ -29,7 +29,10 @@ Please add a comment block at the beginning of your file explaining at least
 * version requirements
 * any other things noteworthy
 
-You are encouraged to add extensive inline comments to explain the code!
+You are encouraged to add extensive inline comments to explain the code! Please, try to 
+not overcomplicate your code. This is no challenge in obfuscation (except you are using
+[Malbolge](https://en.wikipedia.org/wiki/Malbolge) or [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+of course...)
 
 If for some reason the language does not allow comments in the code, please add
 a text file instead. Please note the subdirectory requirement in the next
