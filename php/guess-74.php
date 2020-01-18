@@ -28,9 +28,5 @@ while (!$solved) {
         echo sprintf('You won!%s', PHP_EOL);
         $solved = true;
     }
-    $lastGuess = $currentGuess;
-    if ($numberOfGuesses >= 10) {
-        $solved = true;
-    }
 }
 echo sprintf('That was a fun game! It needed %s guesses%s', $numberOfGuesses, PHP_EOL);
